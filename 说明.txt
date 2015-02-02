@@ -1,0 +1,1 @@
+这是一个Materialdesign风格的EditText库,允许限制字数,改变颜色等
