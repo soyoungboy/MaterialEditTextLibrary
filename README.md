@@ -3,6 +3,7 @@
 https://github.com/soyoungboy/MaterialEditTextLibrary/tree/master
 
 首先这个项目是rengwuxian的原创，我只是改成eclipse版本而已，以及学习他的应用控件。
+Thanks to rengwuxian for sharing
 
 我的博客里面有针对这个控件使用的细节描述：
 
